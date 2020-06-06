@@ -1,5 +1,5 @@
 # Predicting-Solar-Energy-based-on-Weather-Data
-Predicting Solar Energy based on Weather Data via Multilayer Perceptron and Long Short-Term Memory
+Predicting PV Solar Electricity Generation based on Weather Data (Solar Energy, Outdoor Temperature, Outdoor Humidity, Wind Speed) via Multilayer Perceptron and Long Short-Term Memory
 
 MLP on unshuffled dataset with 2000 test amount
 
