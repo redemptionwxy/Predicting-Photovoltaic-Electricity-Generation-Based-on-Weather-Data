@@ -1,4 +1,11 @@
 # Predicting-Solar-Energy-based-on-Weather-Data
+
+--------------------------------------------------
+
+Paper Link [https://www.degruyterbrill.com/document/doi/10.1515/comp-2024-0010/html]
+
+--------------------------------------------------
+
 Predicting PV Solar Electricity Generation based on Weather Data (Solar Energy, Outdoor Temperature, Outdoor Humidity, Wind Speed) via Multilayer Perceptron and Long Short-Term Memory
 
 MLP on unshuffled dataset with 2000 test amount
